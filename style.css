@@ -1,0 +1,13 @@
+a:link {
+    color: green;
+}
+
+a:hover {
+    color: rgb(235, 169, 169);
+    font-size: 1.5em;
+}
+
+a:active {
+    font-size: 1.5em;
+    color: yellow;
+}
